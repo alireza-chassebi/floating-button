@@ -12,7 +12,5 @@ start app
 
 ```
 
-![App Preview](https://imgur.com/lZwQSpX)
-
-Use the link below if the gif above is not showing above
+Preview App
 [imgur Link](https://imgur.com/lZwQSpX)
